@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max or 最大 (Japanese)
+- 👋🏽 Hi, I’m Max or 最大 (Japanese)
 - 👀 I’m interested in anything Frontend (Web & Mobile)
 - 🌱 I’m currently learning 
 - 📫 How to reach me - hello@maxwellcofie.com
